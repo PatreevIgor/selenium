@@ -1,24 +1,8 @@
-# README
+Основы разработки selenium тестов в среде Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Link: https://www.youtube.com/watch?v=xsffhW8e76Y
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+In the video used rails 4.2.6 version.
+In this project I used:
+  rails 5.1.4
+  ruby  2.4.2 version.
